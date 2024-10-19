@@ -1,0 +1,17 @@
+D:\projects\learning\rabbitmq\Send\bin\Debug\net9.0\Send.exe
+D:\projects\learning\rabbitmq\Send\bin\Debug\net9.0\Send.deps.json
+D:\projects\learning\rabbitmq\Send\bin\Debug\net9.0\Send.runtimeconfig.json
+D:\projects\learning\rabbitmq\Send\bin\Debug\net9.0\Send.dll
+D:\projects\learning\rabbitmq\Send\bin\Debug\net9.0\Send.pdb
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.AssemblyInfoInputs.cache
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.AssemblyInfo.cs
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.csproj.CoreCompileInputs.cache
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.dll
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\refint\Send.dll
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.pdb
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.genruntimeconfig.cache
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\ref\Send.dll
+D:\projects\learning\rabbitmq\Send\bin\Debug\net9.0\RabbitMQ.Client.dll
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.csproj.AssemblyReference.cache
+D:\projects\learning\rabbitmq\Send\obj\Debug\net9.0\Send.csproj.Up2Date
