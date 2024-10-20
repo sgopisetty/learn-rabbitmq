@@ -1,0 +1,17 @@
+D:\projects\learning\rabbitmq\NewTask\bin\Debug\net9.0\NewTask.exe
+D:\projects\learning\rabbitmq\NewTask\bin\Debug\net9.0\NewTask.deps.json
+D:\projects\learning\rabbitmq\NewTask\bin\Debug\net9.0\NewTask.runtimeconfig.json
+D:\projects\learning\rabbitmq\NewTask\bin\Debug\net9.0\NewTask.dll
+D:\projects\learning\rabbitmq\NewTask\bin\Debug\net9.0\NewTask.pdb
+D:\projects\learning\rabbitmq\NewTask\bin\Debug\net9.0\RabbitMQ.Client.dll
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.csproj.AssemblyReference.cache
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.AssemblyInfoInputs.cache
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.AssemblyInfo.cs
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.csproj.CoreCompileInputs.cache
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.csproj.Up2Date
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.dll
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\refint\NewTask.dll
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.pdb
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\NewTask.genruntimeconfig.cache
+D:\projects\learning\rabbitmq\NewTask\obj\Debug\net9.0\ref\NewTask.dll

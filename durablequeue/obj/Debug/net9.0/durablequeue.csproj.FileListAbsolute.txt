@@ -1,0 +1,17 @@
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.AssemblyInfoInputs.cache
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.AssemblyInfo.cs
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.csproj.CoreCompileInputs.cache
+D:\projects\learning\rabbitmq\durablequeue\bin\Debug\net9.0\durablequeue.exe
+D:\projects\learning\rabbitmq\durablequeue\bin\Debug\net9.0\durablequeue.deps.json
+D:\projects\learning\rabbitmq\durablequeue\bin\Debug\net9.0\durablequeue.runtimeconfig.json
+D:\projects\learning\rabbitmq\durablequeue\bin\Debug\net9.0\durablequeue.dll
+D:\projects\learning\rabbitmq\durablequeue\bin\Debug\net9.0\durablequeue.pdb
+D:\projects\learning\rabbitmq\durablequeue\bin\Debug\net9.0\RabbitMQ.Client.dll
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.csproj.AssemblyReference.cache
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durableq.899938C8.Up2Date
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.dll
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\refint\durablequeue.dll
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.pdb
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\durablequeue.genruntimeconfig.cache
+D:\projects\learning\rabbitmq\durablequeue\obj\Debug\net9.0\ref\durablequeue.dll

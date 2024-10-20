@@ -1,0 +1,17 @@
+D:\projects\learning\rabbitmq\ExchangeReceive\bin\Debug\net9.0\ExchangeReceive.exe
+D:\projects\learning\rabbitmq\ExchangeReceive\bin\Debug\net9.0\ExchangeReceive.deps.json
+D:\projects\learning\rabbitmq\ExchangeReceive\bin\Debug\net9.0\ExchangeReceive.runtimeconfig.json
+D:\projects\learning\rabbitmq\ExchangeReceive\bin\Debug\net9.0\ExchangeReceive.dll
+D:\projects\learning\rabbitmq\ExchangeReceive\bin\Debug\net9.0\ExchangeReceive.pdb
+D:\projects\learning\rabbitmq\ExchangeReceive\bin\Debug\net9.0\RabbitMQ.Client.dll
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.csproj.AssemblyReference.cache
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.AssemblyInfoInputs.cache
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.AssemblyInfo.cs
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.csproj.CoreCompileInputs.cache
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\Exchange.9FEC4A3F.Up2Date
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.dll
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\refint\ExchangeReceive.dll
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.pdb
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ExchangeReceive.genruntimeconfig.cache
+D:\projects\learning\rabbitmq\ExchangeReceive\obj\Debug\net9.0\ref\ExchangeReceive.dll
